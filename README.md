@@ -1,0 +1,1 @@
+The goal of the project is to use the insights gained from the analysis of sales data to drive new marketing campaigns and improve the company's market share. The project aims to identify customer preferences, buying patterns, and trends, which will be used to create targeted marketing campaigns that will appeal to the company's existing customer base, and attract new customers.
